@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1366"
+   height="768"
+   viewBox="0 0 1366 768"
+   id="svg4869"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="drawing.svg">
+  <defs
+     id="defs4871">
+    <symbol
+       id="Core">
+      <title
+         id="title7013">Core</title>
+      <desc
+         id="desc7015">Core memory. (ISO)</desc>
+      <rect
+         x="35"
+         y="35"
+         width="80"
+         height="80"
+         style="stroke-width:2"
+         id="rect7017" />
+      <path
+         d="m 35,50 80,0"
+         style="stroke-width:2"
+         id="path7019" />
+      <path
+         d="m 50,35 0,80"
+         style="stroke-width:2"
+         id="path7021" />
+    </symbol>
+    <symbol
+       id="RightArrow">
+      <title
+         id="title6253">Right Arrow</title>
+      <path
+         d="M 63,36 41,58 26,58 42,42 10,42 10,30 42,30 26,14 41,14 z"
+         style="stroke:none"
+         id="path6255" />
+    </symbol>
+    <symbol
+       id="LeftArrow">
+      <title
+         id="title6301">Left Arrow</title>
+      <path
+         d="m 9,36 22,-22 15,0 -16,16 32,0 0,12 -32,0 16,16 -15,0 z"
+         style="stroke:none"
+         id="path6303" />
+    </symbol>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="742.89971"
+     inkscape:cy="313.99748"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     units="px"
+     showguides="true"
+     inkscape:connector-spacing="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="671"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4906" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4874">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-284.36219)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <rect
+       style="fill:#b3b3b3;fill-rule:evenodd;stroke:#000000;stroke-width:0.69638962px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect4878"
+       width="1366.0178"
+       height="127.44647"
+       x="5.5624804"
+       y="4.9910517" />
+    <rect
+       style="fill:#b3b3b3;fill-rule:evenodd;stroke:#000000;stroke-width:1.11584413px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect4880"
+       width="674.77899"
+       height="557.02704"
+       x="280.42917"
+       y="133.77223" />
+    <rect
+       style="fill:#00ff00;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect4882"
+       width="300"
+       height="71.428574"
+       x="1042.8572"
+       y="28" />
+    <rect
+       style="fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4888"
+       width="1362.8572"
+       height="77.142845"
+       x="-1.183467"
+       y="691.69397" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:34.00791931px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1227.2712"
+       y="49.311481"
+       id="text4890"
+       sodipodi:linespacing="0%"
+       transform="scale(0.85019796,1.1761967)"><tspan
+         sodipodi:role="line"
+         id="tspan4892"
+         x="1227.2712"
+         y="49.311481"
+         style="font-size:19.12945366px;line-height:0%">контакты (вызов модального окна</tspan><tspan
+         sodipodi:role="line"
+         x="1227.2712"
+         y="49.311481"
+         style="font-size:19.12945366px;line-height:0%"
+         id="tspan4894" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="226.27417"
+       y="77.055664"
+       id="text4896"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4898"
+         x="226.27417"
+         y="77.055664">блок с фоном(название) </tspan></text>
+    <use
+       id="use13254"
+       style="fill:#000000;stroke:#000000"
+       xlink:href="#RightArrow"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="matrix(3.2490189,0,0,1,70.309337,356.22325)" />
+    <use
+       id="use13279"
+       style="fill:#000000;stroke:#000000"
+       xlink:href="#LeftArrow"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="matrix(1.9433962,0,0,1,-17.400997,356.20223)" />
+    <use
+       id="use13254-3"
+       style="fill:#000000;stroke:#000000"
+       xlink:href="#RightArrow"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="matrix(5.6190411,0,0,1,1007.7593,366.33529)" />
+    <use
+       id="use13279-6"
+       style="fill:#000000;stroke:#000000"
+       xlink:href="#LeftArrow"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="matrix(3.3679147,0,0,1,924.2097,366.31427)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:31.31208229px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="6.195487"
+       y="193.16525"
+       id="text13311"
+       sodipodi:linespacing="125%"
+       transform="scale(0.78280206,1.2774622)"><tspan
+         sodipodi:role="line"
+         id="tspan13313"
+         x="6.195487"
+         y="193.16525">для моб.устройств</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:31.31208229px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1267.2611"
+       y="205.23415"
+       id="text13311-7"
+       sodipodi:linespacing="125%"
+       transform="scale(0.78280203,1.2774622)"><tspan
+         sodipodi:role="line"
+         id="tspan13313-5"
+         x="1267.2611"
+         y="205.23415">для моб.устройств</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="519.21838"
+       y="731.63452"
+       id="text13333"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan13335"
+         x="519.21838"
+         y="731.63452">авторские права (мои)</tspan></text>
+    <rect
+       style="fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:2.63355255;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect13372-9"
+       width="165.36646"
+       height="165.36644"
+       x="452.55563"
+       y="135.93593" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 3">
+    <rect
+       style="fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:2.63355255;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect13372"
+       width="165.36646"
+       height="165.36644"
+       x="283.15918"
+       y="135.62619" />
+    <rect
+       style="fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:2.63355255;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect13372-2"
+       width="165.36646"
+       height="165.36644"
+       x="-786.31805"
+       y="134.92577"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:2.63355255;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect13372-1"
+       width="165.36644"
+       height="165.36644"
+       x="787.92627"
+       y="134.92575" />
+    <rect
+       style="fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:2.63355255;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect13372-9-2"
+       width="165.36646"
+       height="165.36644"
+       x="451.5329"
+       y="301.9639" />
+    <rect
+       style="fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:2.63355255;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect13372-7"
+       width="165.36646"
+       height="165.36644"
+       x="282.13644"
+       y="301.65417" />
+    <rect
+       style="fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:2.63355255;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect13372-2-0"
+       width="165.36646"
+       height="165.36644"
+       x="-785.29535"
+       y="300.95374"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:2.63355255;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect13372-1-9"
+       width="165.36644"
+       height="165.36644"
+       x="786.90356"
+       y="300.95374" />
+    <rect
+       style="fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:2.63355255;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect13372-9-3"
+       width="165.36646"
+       height="165.36644"
+       x="451.97046"
+       y="468.23676" />
+    <rect
+       style="fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:2.63355255;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect13372-6"
+       width="165.36646"
+       height="165.36644"
+       x="282.57404"
+       y="467.92703" />
+    <rect
+       style="fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:2.63355255;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect13372-2-06"
+       width="165.36646"
+       height="165.36644"
+       x="-785.73291"
+       y="467.22659"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:2.63355255;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect13372-1-2"
+       width="165.36644"
+       height="165.36644"
+       x="787.34113"
+       y="467.22659" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:100.37310791px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="426.8085"
+       y="291.74176"
+       id="text13448"
+       sodipodi:linespacing="125%"
+       transform="scale(0.68960959,1.4500958)"><tspan
+         sodipodi:role="line"
+         id="tspan13450"
+         x="426.8085"
+         y="291.74176">контент, картины </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="24.243662"
+       y="509.40094"
+       id="text13452"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan13454"
+         x="24.243662"
+         y="509.40094" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot13456"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+         id="flowRegion13458"><rect
+           id="rect13460"
+           width="52.527931"
+           height="80.812202"
+           x="40.406101"
+           y="497.27911" /></flowRegion><flowPara
+         id="flowPara13462">или</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="20.203051"
+       y="511.42126"
+       id="text13464"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan13466"
+         x="20.203051"
+         y="511.42126">или реклама</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="994.75098"
+       y="542.70593"
+       id="text13464-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan13466-1"
+         x="994.75098"
+         y="542.70593">или реклама</tspan></text>
+  </g>
+</svg>

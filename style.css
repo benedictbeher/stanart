@@ -1,0 +1,19 @@
+body {background-image: url(painting/ivan-stan-13.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+margin: 0px;
+width: 100%;
+}
+div.header {background-image: url(schup1.png);
+  width: 100%;
+  height:75px;
+}
+div.content {margin-left: 10%;
+margin-right: 10%;
+background-color: rgba(23,23,25,0.3);
+padding-left: 5%;
+height: 100%;}
+footer p {color: white;
+margin-left: 35%;
+padding-top: 0%;:}
